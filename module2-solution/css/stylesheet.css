@@ -5,6 +5,11 @@ body {
  font-size: 100%;
 }
 
+title-container {
+  text-align: center;
+  font-size: 175%;
+  }
+
 p {
  background-color: grey;
  }
