@@ -1,14 +1,14 @@
-*{font-family: Lucida Console;
+*{font-family: sans-serif;
   box-sizing: border-box;}
-
-body {
- font-size: 100%;
-}
 
 title-container {
   text-align: center;
   font-size: 175%;
-  }
+}
+
+body {
+ font-size: 100%;
+}
 
 p {
  background-color: grey;
