@@ -15,14 +15,17 @@
    	font-size: 125%;
    	float:right;
    }
-
-   .menu{
+body {
+  font-family: sans-serif;
+  font-size: 100%;
+}
+   menu{
    	background-color: #8e8e8e;
    	margin:10px;
    	border:2px solid black;
    }
 
-   .text{
+   p{
    	margin:10px;
    	margin-top:40px;
    	clear:both;
