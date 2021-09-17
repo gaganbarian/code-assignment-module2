@@ -1,11 +1,11 @@
 *{font-family: cursive;
   box-sizing: border-box;}
 
-.body {
+body {
  font-size: 100%;
 }
 
-.p {
+p {
  background-color: grey;
  }
 
