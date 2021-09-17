@@ -10,6 +10,15 @@ title-container {
   font-size: 175%;
   }
 
+menu-title{
+   	width:40%;
+   	float:right;
+   	border: 2px solid black;
+   	text-align: center;
+   	font-size: 125%;
+   	float:right;
+   }
+
 body {
  font-size: 100%;
 }
