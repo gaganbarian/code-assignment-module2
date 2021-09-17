@@ -1,4 +1,4 @@
-*{font-family: cursive;
+*{font-family: Lucida Console;
   box-sizing: border-box;}
 
 body {
@@ -6,7 +6,7 @@ body {
 }
 
 title-container {
-  text-align: center;
+  text-align: centre;
   font-size: 175%;
   }
 
