@@ -3,10 +3,12 @@
 
 title-container {
   width: 90%;
+  height: 100px;
   margin-right: auto;
+  margin-left: auto;
   text-align: center;
   font-size: 175%;
-}
+  }
 
 body {
  font-size: 100%;
@@ -17,3 +19,6 @@ p {
  }
 
 #Rasgulla{background-color: red;}
+#Gulab Jamun{background-color:brown;}
+#Sushi{background-color: yellow; }
+
