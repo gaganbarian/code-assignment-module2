@@ -5,6 +5,7 @@ box-sizing: border-box;
 .title-container {
        width: 90%;
         height: 100px
+        margin-left: auto;
 	text-align: center;
         font-size: 175%;
 }
@@ -12,15 +13,13 @@ box-sizing: border-box;
 .menu {
    	background-color: #8e8e8e;
    	margin:10px;
-   	border:2px solid black;
+   	border:1px solid black;
    }
-
 
 .menu-title {
         width: 40%;
    	float:right;
    	border: 1px solid black;
-   	text-align: center;
    }
    	
   .body {
