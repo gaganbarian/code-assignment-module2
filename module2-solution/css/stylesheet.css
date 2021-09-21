@@ -2,27 +2,32 @@
 box-sizing: border-box;
 }
 
-.
-title-container {
+
+.title-container {
        width: 90%
 	text-align: center;
+        font-size: 175%;
+}
 
-menu-title {
+.menu{
+   	background-color: #8e8e8e;
+   	margin:10px;
+   	border:2px solid black;
+   }
+
+
+.menu-title {
         width: 40%
    	float:right;
    	border: 1px solid black;
    	text-align: center;
    }
    	
-  body {
+  .body {
  font-size: 100%;
 }
 
-p {
- background-color: grey;
- }
-
-row {
+.row {
     width: 90%;
     margin-right: auto;
     margin-left: auto;
