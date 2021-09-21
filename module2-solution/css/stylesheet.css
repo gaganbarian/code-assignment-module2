@@ -1,11 +1,13 @@
-*{font-family: bold;
-  box-sizing: border-box;}
+*{ 
+box-sizing: border-box;
+}
 
 .title-container {
   width: 90%;
-  height: 70px;
-  margin-right: auto;
-  margin-left: auto;
+    border: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding:5px;
   text-align: center;
   font-size: 175%;
   }
@@ -19,11 +21,11 @@
    	float:right;
    }
    	
-  body {
+  .body {
  font-size: 100%;
 }
 
-p {
+.p {
  background-color: grey;
  }
 
