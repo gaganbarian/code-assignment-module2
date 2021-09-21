@@ -2,12 +2,9 @@
   box-sizing: border-box;}
 
 title-container {
-  width: 90%;
-  height: 100px;
-  margin-right: auto;
-  margin-left: auto;
   text-align: center;
-  font-size: 175%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   }
 
 menu-title{
@@ -28,7 +25,8 @@ p {
  }
 
 #Rasgulla{background-color:#e8a7a7;}
-#Sushi{background-color:##d6331a; }
+#Sushi{background-color:#d6331a; }
 #GulabJamun{background-color:#eddb80;}
+
 
 
