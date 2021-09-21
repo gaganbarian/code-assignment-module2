@@ -3,15 +3,12 @@ box-sizing: border-box;
 }
 
 .title-container {
-  color: #000000;
 	text-align: center;
 
 .menu-title {
-       width:40%;
    	float:right;
    	border: 1px solid black;
    	text-align: center;
-   	float:right;
    }
    	
   .body {
