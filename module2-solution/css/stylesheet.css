@@ -37,13 +37,15 @@ box-sizing: border-box;
    }
 
 #Rasgulla{background-color:#e8a7a7;}
-#Sushi{background-color:#eddb80;
-               color : white;}
-#GulabJamun{background-color:#d6331a;}
+#GulabJamun{background-color:#d6331a;
+                            color : white; }
+#Sushi{background-color:#eddb80;}
+
 
 /********** Desktop **********/
 @media (min-width: 992px) {
   .col-lg-4 {
+    float: left;
     width: 33.33%;
   }
 }
