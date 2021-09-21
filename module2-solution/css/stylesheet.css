@@ -1,4 +1,4 @@
-*{ 
+*{font-family : Comic Sans MS;
 box-sizing: border-box;
 }
 
@@ -20,6 +20,8 @@ box-sizing: border-box;
         width: 40%;
    	float:right;
    	border: 1px solid black;
+       text-align: center;
+      font-size: 125%
    }
    	
   .body {
@@ -35,7 +37,8 @@ box-sizing: border-box;
    }
 
 #Rasgulla{background-color:#e8a7a7;}
-#Sushi{background-color:#eddb80;}
+#Sushi{background-color:#eddb80;
+               text-color : white; }
 #GulabJamun{background-color:#d6331a;}
 
 /********** Desktop **********/
