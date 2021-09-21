@@ -9,11 +9,11 @@ title-container {
 
 menu-title{
    	width:40%;
-   	float:right;
+   	float:left;
    	border: 2px solid black;
    	text-align: center;
    	font-size: 125%;
-   	float:right;
+   	float:left;
    }
 
 body {
