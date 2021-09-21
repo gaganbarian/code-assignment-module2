@@ -1,4 +1,4 @@
-*{font-family: sans-serif;
+*{font-family: bold;
   box-sizing: border-box;}
 
 title-container {
@@ -8,13 +8,18 @@ title-container {
   }
 
 menu-title{
-   	width:40%;
-   	float:left;
-   	border: 2px solid black;
-   	text-align: center;
-   	font-size: 125%;
-   	float:left;
-   }
+   	position: absolute;
+  top: 0px;
+  right:0px;
+  margin: auto;
+  float: none;
+  width: 140px;
+  height: 35px;
+  border:1px solid black;
+  text-align:center;
+  padding: center;
+  }
+   
 
 body {
  font-size: 100%;
