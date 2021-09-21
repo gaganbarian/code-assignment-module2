@@ -8,6 +8,11 @@ title-container {
   }
 
 menu-title
+menu{
+   	background-color: #8e8e8e;
+   	margin:10px;
+   	border:1px solid black;
+   }
    	
    
 
