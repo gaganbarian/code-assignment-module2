@@ -3,26 +3,20 @@
 
 .title-container {
   width: 90%;
-  height: 100px;
+  height: 70px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
   font-size: 175%;
   }
 
-menu-title {
+.menu-title {
        width:40%;
    	float:right;
    	border: 2px solid black;
    	text-align: center;
    	font-size: 125%;
    	float:right;
-   }
-
-menu {
-   	background-color: #8e8e8e;
-   	margin:10px;
-   	border:1px solid black;
    }
    	
   body {
