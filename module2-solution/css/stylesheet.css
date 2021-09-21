@@ -2,18 +2,19 @@
 box-sizing: border-box;
 }
 
-.title-container {
+.
+title-container {
        width: 90%
 	text-align: center;
 
-.menu-title {
+menu-title {
         width: 40%
    	float:right;
    	border: 1px solid black;
    	text-align: center;
    }
    	
-  .body {
+  body {
  font-size: 100%;
 }
 
@@ -21,7 +22,7 @@ p {
  background-color: grey;
  }
 
-.row {
+row {
     width: 90%;
     margin-right: auto;
     margin-left: auto;
