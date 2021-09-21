@@ -17,7 +17,7 @@ box-sizing: border-box;
    }
 
 .menu-title {
-       position: absolute;
+       position: relative;
         width: 40%;
    	float:right;
    	border: 2px solid black;
