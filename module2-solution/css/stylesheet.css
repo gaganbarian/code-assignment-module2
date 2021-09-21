@@ -46,6 +46,7 @@ box-sizing: border-box;
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
+    background-color: white; 
     width: 33.33%;
   }
 }
