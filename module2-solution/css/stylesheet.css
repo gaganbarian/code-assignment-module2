@@ -7,18 +7,8 @@ title-container {
   margin-bottom: 5%;
   }
 
-menu-title{
-   	position: absolute;
-  top: 0px;
-  right:0px;
-  margin: auto;
-  float: none;
-  width: 140px;
-  height: 35px;
-  border:1px solid black;
-  text-align:center;
-  padding: center;
-  }
+menu-title
+   	
    
 
 body {
@@ -36,6 +26,7 @@ p {
     margin-left: auto;
     padding:5px;
    }
+
 #Rasgulla{background-color:#e8a7a7;}
 #Sushi{background-color:#d6331a; }
 #GulabJamun{background-color:#eddb80;}
